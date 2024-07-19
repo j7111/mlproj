@@ -25,7 +25,7 @@ For projects developed from scratch, comparisons are typically made with standar
 
 - `knn.ipynb`: Using NumPy to create random labeled clusters, we implement a KNN algorithm from scratch, using the underlying mathematical principles. This is later compared to scikit-learn's implementation of KNN.
 
-- `knn_means.ipynb`: Using unlabeled clusters, we implement a k-Means clustering algorithm from scratch, again from the underlying mathematical principles. This is an unsupervised learning technique to cluster data points based on their distance from centroids. Our implementation is also compared to scikit-learn's.
+- `kmeans.ipynb`: Using unlabeled clusters, we implement a k-Means clustering algorithm from scratch, again from the underlying mathematical principles. This is an unsupervised learning technique to cluster data points based on their distance from centroids. Our implementation is also compared to scikit-learn's.
 
 - `naive_bayes.ipynb`: We build a naive Bayes classifier, utilizing the mathematics of Bayes' Theorem. We compare our results and accuracy scores to scikit-learn's standard model.
 
