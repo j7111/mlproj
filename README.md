@@ -29,6 +29,4 @@ For projects developed from scratch, comparisons are typically made with standar
 
 - `naive_bayes.ipynb`: We build a naive Bayes classifier, utilizing the mathematics of Bayes' Theorem. We compare our results and accuracy scores to scikit-learn's standard model.
 
-- `xgboost.ipynb`: Following along the mathematical foundations of standard gradient boosting + XGBoost, we developed a basic XGBoost model from scratch. This project emphasizes understanding the underlying mathematics rather than achieving optimal model performance, as demonstrated by comparisons with the standard XGBoost implementation."# decentralized-app" 
-"# decentralized-app" 
-"# mlproj" 
+- `xgboost.ipynb`: Following along the mathematical foundations of standard gradient boosting + XGBoost, we developed a basic XGBoost model from scratch. This project emphasizes understanding the underlying mathematics rather than achieving optimal model performance.
